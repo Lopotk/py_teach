@@ -1,0 +1,6 @@
+mes = "you"
+mes2 = "and"
+mes3 = "me"
+all = f"\t{mes.title()} \n\t{mes2.lower()} \n\t{mes3.upper()}"
+print(all)
+#Tabulation\t, line feed\n, f can be written togethor in this way(4)
